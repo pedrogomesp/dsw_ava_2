@@ -30,4 +30,4 @@ Os códigos de status HTTP indicam o resultado de uma requisição. Alguns exemp
 
 - **JSON (JavaScript Object Notation):** Formato leve de troca de dados, muito utilizado em APIs. Ex:  
   ```json
-  { "nome": "João", "idade": 25 }
+  { "nome": "maria", "idade": 250 }
